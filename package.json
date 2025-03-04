@@ -1,0 +1,26 @@
+{
+  "name": "nueva-api",
+  "version": "1.0.0",
+  "description": "nueva api adso tarde ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGomezDuque/APITIENDA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoGomezDuque/APITIENDA/issues"
+  },
+  "homepage": "https://github.com/SantiagoGomezDuque/APITIENDA#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.0"
+  }
+}
